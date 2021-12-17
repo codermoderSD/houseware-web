@@ -1,0 +1,16 @@
+{
+  "name": "houseware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ngrok": "^4.2.2",
+    "server": "^1.0.37"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "houseware team",
+  "license": "ISC"
+}
