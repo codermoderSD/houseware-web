@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "ngrok": "^4.2.2",
-    "server": "^1.0.37"
+    "server": "^1.0.37",
+    "three": "^0.135.0"
   },
   "devDependencies": {},
   "scripts": {
